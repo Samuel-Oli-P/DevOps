@@ -1,0 +1,14 @@
+persistence\FuncionarioService.class
+persistence\Conexao.class
+persistence\Funcionario.class
+persistence\LogService.class
+persistence\Redes.class
+persistence\RedeService.class
+persistence\Maquina.class
+testLog\Teste$1.class
+persistence\MaquinaService.class
+persistence\API.class
+persistence\Log.class
+persistence\Dados.class
+testLog\Teste.class
+persistence\ConexaoMysql.class
